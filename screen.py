@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 
 def drawBoard(board):
     # This function prints out the board that it was passed.
@@ -18,3 +18,6 @@ def drawBoard(board):
 
 def prompt(text):
     print(text)
+
+def cleanup:
+    print("All is well")
